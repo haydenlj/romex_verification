@@ -1,0 +1,14 @@
+Description of verification results of DWD experiments
+======================================================
+
+Experiment period: 2022-09-01 until (including) 2022-11-30
+
+Verification of forecasts against ERA5 analysis:
+
+- forecasts up to 240 hours lead time
+- output every 6 hours, including initialized analysis
+- aggregated over full experiment period, starting 2022-09-01 00UTC
+  and including 2022-11-30 18UTC as last verification date
+
+dwd.ctl.era5.dat - Deterministic verification of CTL vs. ERA5
+dwd.exp.era5.dat - Deterministic verification of EXP vs. ERA5
